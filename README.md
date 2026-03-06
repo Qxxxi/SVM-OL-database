@@ -2,6 +2,12 @@
 
 A multimodal emotion recognition framework for online learning scenarios, combining visual and textual modalities to classify student emotions into five categories: **Bored**, **Happy**, **Interested**, **Tired**, and **Confused**.
 
+## Data Access                                                                                                                                          
+                                                                                                                                                        
+- **Code, feature files, and pre-trained models**: Publicly available in this repository. Download links for feature files are provided in the `checkpoint` directory.
+- **Raw dataset**: Access requires a signed [Data Usage Agreement](SVM-OL_Data_Usage_Agreement.pdf). Please send the signed agreement to the corresponding author via institutional email.
+
+
 ## Overview
 
 This project implements:
